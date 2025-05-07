@@ -1,0 +1,32 @@
+[
+    {
+        "Invoice_No": "INV-001",
+        "Total": "$1,200.50",
+        "invoice_date": "01/03/2023",
+        "curr": "USD"
+    },
+    {
+        "inv_no": "INV-002",
+        "amt": "950.00",
+        "date_of_invoice": "2023-03-02",
+        "currency_code": "EUR"
+    },
+    {
+        "inv_no": "INV123",
+        "date": "12/25/2024",
+        "amount": "$1000",
+        "vendor": "Acme Corp"
+    },
+    {
+        "InvoiceNumber": "INV456",
+        "Invoice_Date": "2024-01-15",
+        "total": "2000 USD",
+        "VendorName": "Beta LLC"
+    },
+    {
+        "invoice_no": "INV789",
+        "due_date": "15-Feb-2024",
+        "amount": "500",
+        "vendor": ""
+    }
+]
